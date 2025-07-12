@@ -34,7 +34,7 @@ const About = () => {
         </p>
 
         <AnimatedTitle
-          title="Soft<b>w</b>are Dev<b>eloper</b> | D<b>ata An</b>alysis | Creat<b>ive Techno</b>logist"
+          title="Soft<b>w</b>are Dev<b>eloper</b> | Se<b>cure S</b>ystems D<b>evelo</b>per | <b>Techno</b>logist"
           containerClass="mt-5 !text-black text-center"
         />
 
